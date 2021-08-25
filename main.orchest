@@ -1,0 +1,31 @@
+{
+    "name": "Main",
+    "parameters": {},
+    "settings": {
+        "auto_eviction": false,
+        "data_passing_memory_size": "1GB"
+    },
+    "steps": {
+        "b8c3f659-ac1a-45ac-b11d-f187d3dfe575": {
+            "environment": "034c1b89-0d94-4755-bb88-e42f07166aa9",
+            "file_path": "main.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Julia",
+                "name": "julia"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    130.5,
+                    195.5
+                ]
+            },
+            "parameters": {},
+            "title": "Main",
+            "uuid": "b8c3f659-ac1a-45ac-b11d-f187d3dfe575"
+        }
+    },
+    "uuid": "a358cb92-0f0e-4c32-89f7-ad30d348552b",
+    "version": "1.0.0"
+}

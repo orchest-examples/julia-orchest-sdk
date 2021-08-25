@@ -1,0 +1,1 @@
+{"uuid": "034c1b89-0d94-4755-bb88-e42f07166aa9", "base_image": "orchest/base-kernel-julia", "language": "julia", "gpu_support": false, "name": "Julia"}
