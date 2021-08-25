@@ -6,6 +6,27 @@
         "data_passing_memory_size": "1GB"
     },
     "steps": {
+        "7e6a96de-b935-4bb4-8ef6-acb262086ccc": {
+            "environment": "",
+            "file_path": "read-output.ipynb",
+            "incoming_connections": [
+                "b8c3f659-ac1a-45ac-b11d-f187d3dfe575"
+            ],
+            "kernel": {
+                "display_name": "",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    434.5,
+                    236.5
+                ]
+            },
+            "parameters": {},
+            "title": "Read output",
+            "uuid": "7e6a96de-b935-4bb4-8ef6-acb262086ccc"
+        },
         "b8c3f659-ac1a-45ac-b11d-f187d3dfe575": {
             "environment": "034c1b89-0d94-4755-bb88-e42f07166aa9",
             "file_path": "main.ipynb",
